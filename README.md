@@ -2,12 +2,12 @@
 
 A production-grade data engineering project demonstrating real-time data ingestion, streaming, and warehousing of financial market data.
 
-## Project Goals
+## 🎯 Project Goals
 - Build scalable real-time data pipeline
 - Demonstrate data engineering best practices
 - Showcase cloud data warehousing (Snowflake + PostgreSQL)
 
-## Architecture
+## 🏗️ Architecture
 [Architecture diagram coming soon]
 
 ## 🛠️ Technologies
