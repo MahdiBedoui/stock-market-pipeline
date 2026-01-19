@@ -1,0 +1,17 @@
+# API & Data Handling
+requests==2.31.0
+pandas==2.1.4
+python-dotenv==1.0.0
+
+# Database
+psycopg2-binary==2.9.9
+snowflake-connector-python==3.6.0
+
+# Streaming (Add Kafka later)
+# kafka-python==2.0.2
+
+# Data Quality
+# great-expectations==0.18.8
+
+# Utilities
+pyyaml==6.0.1
